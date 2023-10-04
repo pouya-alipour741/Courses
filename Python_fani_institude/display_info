@@ -1,0 +1,5 @@
+INFO:root:display_info ran with args('Pouya', 32) and kwargs{}
+INFO:root:ran with args('Pouya', 32) and kwargs{}
+INFO:root:display_inforan with args('Pouya', 32) and kwargs{}
+INFO:root:display_info ran with args('Pouya', 32) and kwargs{}
+INFO:root:ran with args('Pouya', 32) and kwargs{}
