@@ -1,0 +1,92 @@
+[
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "analytics": {
+      "30d": 84,
+      "90d": 279,
+      "365d": 1259
+    }
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "analytics": {
+      "30d": 29,
+      "90d": 83,
+      "365d": 367
+    }
+  },
+  {
+    "name": "aacgain",
+    "desc": "AAC-supporting version of mp3gain",
+    "analytics": {
+      "30d": 63,
+      "90d": 161,
+      "365d": 655
+    }
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "analytics": {
+      "30d": 98,
+      "90d": 287,
+      "365d": 1121
+    }
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "analytics": {
+      "30d": 22,
+      "90d": 49,
+      "365d": 162
+    }
+  },
+  {
+    "name": "aarch64-elf-binutils",
+    "desc": "GNU Binutils for aarch64-elf cross development",
+    "analytics": {
+      "30d": 122,
+      "90d": 204,
+      "365d": 623
+    }
+  },
+  {
+    "name": "aarch64-elf-gcc",
+    "desc": "GNU compiler collection for aarch64-elf",
+    "analytics": {
+      "30d": 114,
+      "90d": 317,
+      "365d": 1219
+    }
+  },
+  {
+    "name": "aardvark_shell_utils",
+    "desc": "Utilities to aid shell scripts or command-line users",
+    "analytics": {
+      "30d": 9,
+      "90d": 39,
+      "365d": 172
+    }
+  },
+  {
+    "name": "abcde",
+    "desc": "Better CD Encoder",
+    "analytics": {
+      "30d": 59,
+      "90d": 209,
+      "365d": 697
+    }
+  },
+  {
+    "name": "abcl",
+    "desc": "Armed Bear Common Lisp: a full implementation of Common Lisp",
+    "analytics": {
+      "30d": 59,
+      "90d": 170,
+      "365d": 483
+    }
+  }
+]

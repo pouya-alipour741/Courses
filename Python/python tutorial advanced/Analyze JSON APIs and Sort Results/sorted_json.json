@@ -1,0 +1,452 @@
+[
+  {
+    "name": "act",
+    "desc": "Run your GitHub Actions locally \ud83d\ude80",
+    "analytics": {
+      "30d": 16391,
+      "90d": 36928,
+      "365d": 106092
+    }
+  },
+  {
+    "name": "ack",
+    "desc": "Search tool like grep, but optimized for programmers",
+    "analytics": {
+      "30d": 6514,
+      "90d": 18812,
+      "365d": 96243
+    }
+  },
+  {
+    "name": "adwaita-icon-theme",
+    "desc": "Icons for the GNOME project",
+    "analytics": {
+      "30d": 3337,
+      "90d": 11856,
+      "365d": 58990
+    }
+  },
+  {
+    "name": "activemq",
+    "desc": "Apache ActiveMQ: powerful open source messaging server",
+    "analytics": {
+      "30d": 774,
+      "90d": 2388,
+      "365d": 10274
+    }
+  },
+  {
+    "name": "actionlint",
+    "desc": "Static checker for GitHub Actions workflow files",
+    "analytics": {
+      "30d": 838,
+      "90d": 1563,
+      "365d": 6989
+    }
+  },
+  {
+    "name": "adr-tools",
+    "desc": "CLI tool for working with Architecture Decision Records",
+    "analytics": {
+      "30d": 603,
+      "90d": 1410,
+      "365d": 6215
+    }
+  },
+  {
+    "name": "acme",
+    "desc": "Crossassembler for multiple environments",
+    "analytics": {
+      "30d": 384,
+      "90d": 1202,
+      "365d": 4402
+    }
+  },
+  {
+    "name": "afflib",
+    "desc": "Advanced Forensic Format",
+    "analytics": {
+      "30d": 622,
+      "90d": 1276,
+      "365d": 3369
+    }
+  },
+  {
+    "name": "aespipe",
+    "desc": "AES encryption or decryption for pipes",
+    "analytics": {
+      "30d": 23,
+      "90d": 360,
+      "365d": 2783
+    }
+  },
+  {
+    "name": "advancecomp",
+    "desc": "Recompression utilities for .PNG, .MNG, .ZIP, and .GZ files",
+    "analytics": {
+      "30d": 292,
+      "90d": 781,
+      "365d": 2171
+    }
+  },
+  {
+    "name": "aerc",
+    "desc": "Email client that runs in your terminal",
+    "analytics": {
+      "30d": 161,
+      "90d": 455,
+      "365d": 2116
+    }
+  },
+  {
+    "name": "abseil",
+    "desc": "C++ Common Libraries",
+    "analytics": {
+      "30d": 158,
+      "90d": 358,
+      "365d": 2041
+    }
+  },
+  {
+    "name": "adns",
+    "desc": "C/C++ resolver library and DNS resolver utilities",
+    "analytics": {
+      "30d": 152,
+      "90d": 405,
+      "365d": 1799
+    }
+  },
+  {
+    "name": "abcmidi",
+    "desc": "Converts abc music notation files to MIDI files",
+    "analytics": {
+      "30d": 180,
+      "90d": 498,
+      "365d": 1480
+    }
+  },
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "analytics": {
+      "30d": 84,
+      "90d": 279,
+      "365d": 1259
+    }
+  },
+  {
+    "name": "aarch64-elf-gcc",
+    "desc": "GNU compiler collection for aarch64-elf",
+    "analytics": {
+      "30d": 114,
+      "90d": 317,
+      "365d": 1219
+    }
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "analytics": {
+      "30d": 98,
+      "90d": 287,
+      "365d": 1121
+    }
+  },
+  {
+    "name": "adios2",
+    "desc": "Next generation of ADIOS developed in the Exascale Computing Program",
+    "analytics": {
+      "30d": 56,
+      "90d": 231,
+      "365d": 930
+    }
+  },
+  {
+    "name": "ace",
+    "desc": "ADAPTIVE Communication Environment: OO network programming in C++",
+    "analytics": {
+      "30d": 58,
+      "90d": 326,
+      "365d": 907
+    }
+  },
+  {
+    "name": "acpica",
+    "desc": "OS-independent implementation of the ACPI specification",
+    "analytics": {
+      "30d": 121,
+      "90d": 333,
+      "365d": 905
+    }
+  },
+  {
+    "name": "abcde",
+    "desc": "Better CD Encoder",
+    "analytics": {
+      "30d": 59,
+      "90d": 209,
+      "365d": 697
+    }
+  },
+  {
+    "name": "aacgain",
+    "desc": "AAC-supporting version of mp3gain",
+    "analytics": {
+      "30d": 63,
+      "90d": 161,
+      "365d": 655
+    }
+  },
+  {
+    "name": "aarch64-elf-binutils",
+    "desc": "GNU Binutils for aarch64-elf cross development",
+    "analytics": {
+      "30d": 122,
+      "90d": 204,
+      "365d": 623
+    }
+  },
+  {
+    "name": "abyss",
+    "desc": "Genome sequence assembler for short reads",
+    "analytics": {
+      "30d": 21,
+      "90d": 81,
+      "365d": 486
+    }
+  },
+  {
+    "name": "abcl",
+    "desc": "Armed Bear Common Lisp: a full implementation of Common Lisp",
+    "analytics": {
+      "30d": 59,
+      "90d": 170,
+      "365d": 483
+    }
+  },
+  {
+    "name": "acl2",
+    "desc": "Logic and programming language in which you can model computer systems",
+    "analytics": {
+      "30d": 45,
+      "90d": 136,
+      "365d": 447
+    }
+  },
+  {
+    "name": "aescrypt",
+    "desc": "Program for encryption/decryption",
+    "analytics": {
+      "30d": 34,
+      "90d": 103,
+      "365d": 422
+    }
+  },
+  {
+    "name": "afl-fuzz",
+    "desc": "American fuzzy lop: Security-oriented fuzzer",
+    "analytics": {
+      "30d": 52,
+      "90d": 86,
+      "365d": 403
+    }
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "analytics": {
+      "30d": 29,
+      "90d": 83,
+      "365d": 367
+    }
+  },
+  {
+    "name": "abuse",
+    "desc": "Dark 2D side-scrolling platform game",
+    "analytics": {
+      "30d": 26,
+      "90d": 103,
+      "365d": 354
+    }
+  },
+  {
+    "name": "abricate",
+    "desc": "Find antimicrobial resistance and virulence genes in contigs",
+    "analytics": {
+      "30d": 31,
+      "90d": 85,
+      "365d": 352
+    }
+  },
+  {
+    "name": "advancemame",
+    "desc": "MAME with advanced video support",
+    "analytics": {
+      "30d": 15,
+      "90d": 68,
+      "365d": 336
+    }
+  },
+  {
+    "name": "abook",
+    "desc": "Address book with mutt support",
+    "analytics": {
+      "30d": 19,
+      "90d": 76,
+      "365d": 304
+    }
+  },
+  {
+    "name": "abcm2ps",
+    "desc": "ABC music notation software",
+    "analytics": {
+      "30d": 32,
+      "90d": 118,
+      "365d": 302
+    }
+  },
+  {
+    "name": "aardvark_shell_utils",
+    "desc": "Utilities to aid shell scripts or command-line users",
+    "analytics": {
+      "30d": 9,
+      "90d": 39,
+      "365d": 172
+    }
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "analytics": {
+      "30d": 22,
+      "90d": 49,
+      "365d": 162
+    }
+  },
+  {
+    "name": "aescrypt-packetizer",
+    "desc": "Encrypt and decrypt using 256-bit AES encryption",
+    "analytics": {
+      "30d": 8,
+      "90d": 28,
+      "365d": 160
+    }
+  },
+  {
+    "name": "abduco",
+    "desc": "Provides session management: i.e. separate programs from terminals",
+    "analytics": {
+      "30d": 7,
+      "90d": 36,
+      "365d": 156
+    }
+  },
+  {
+    "name": "activemq-cpp",
+    "desc": "C++ API for message brokers such as Apache ActiveMQ",
+    "analytics": {
+      "30d": 10,
+      "90d": 31,
+      "365d": 120
+    }
+  },
+  {
+    "name": "admesh",
+    "desc": "Processes triangulated solid meshes",
+    "analytics": {
+      "30d": 14,
+      "90d": 66,
+      "365d": 110
+    }
+  },
+  {
+    "name": "acmetool",
+    "desc": "Automatic certificate acquisition tool for ACME (Let's Encrypt)",
+    "analytics": {
+      "30d": 0,
+      "90d": 0,
+      "365d": 78
+    }
+  },
+  {
+    "name": "adamstark-audiofile",
+    "desc": "C++ Audio File Library by Adam Stark",
+    "analytics": {
+      "30d": 11,
+      "90d": 20,
+      "365d": 75
+    }
+  },
+  {
+    "name": "advancescan",
+    "desc": "Rom manager for AdvanceMAME/MESS",
+    "analytics": {
+      "30d": 7,
+      "90d": 22,
+      "365d": 69
+    }
+  },
+  {
+    "name": "abi-compliance-checker",
+    "desc": "Tool for checking backward API/ABI compatibility of a C/C++ library",
+    "analytics": {
+      "30d": 6,
+      "90d": 15,
+      "365d": 68
+    }
+  },
+  {
+    "name": "adplug",
+    "desc": "Free, hardware independent AdLib sound player library",
+    "analytics": {
+      "30d": 7,
+      "90d": 16,
+      "365d": 60
+    }
+  },
+  {
+    "name": "abnfgen",
+    "desc": "Quickly generate random documents that match an ABFN grammar",
+    "analytics": {
+      "30d": 6,
+      "90d": 13,
+      "365d": 38
+    }
+  },
+  {
+    "name": "aces_container",
+    "desc": "Reference implementation of SMPTE ST2065-4",
+    "analytics": {
+      "30d": 3,
+      "90d": 9,
+      "365d": 35
+    }
+  },
+  {
+    "name": "afio",
+    "desc": "Creates cpio-format archives",
+    "analytics": {
+      "30d": 3,
+      "90d": 7,
+      "365d": 34
+    }
+  },
+  {
+    "name": "abi-dumper",
+    "desc": "Dump ABI of an ELF object containing DWARF debug info",
+    "analytics": {
+      "30d": 0,
+      "90d": 0,
+      "365d": 0
+    }
+  },
+  {
+    "name": "acl",
+    "desc": "Commands for manipulating POSIX access control lists",
+    "analytics": {
+      "30d": 0,
+      "90d": 0,
+      "365d": 0
+    }
+  }
+]
