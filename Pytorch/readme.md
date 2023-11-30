@@ -1,1 +1,1 @@
-pytorch courses including CNN and introduction to NLP deep learning
+pytorch courses including mostly computer vision and also introduction to NLP deep learning
